@@ -1,5 +1,40 @@
 # ALS Families
 
+## English
+
+I am a family member of an ALS patient and an engineer. My family member was diagnosed with ALS in 2020, is now fully paralyzed, and has undergone a tracheostomy.
+
+My daily work focuses on using artificial intelligence and innovative engineering methods for ALS drug discovery and disease-mechanism research. At the same time, I build practical tools for real caregiving scenarios, with the goal of helping more ALS patients and families solve concrete problems in daily life.
+
+This work will continue as a long-term public-interest effort. Related tools will be provided as freely as possible to patients, families, and caregivers, and will continue to improve through real-world feedback.
+
+## Current Work
+
+- ALS drug discovery and disease-mechanism research
+- Assistive communication tools for ALS patients and families
+- Low-cost, local-first, privacy-conscious caregiving software
+- Source-available, non-commercial prototypes based on real caregiving needs
+
+## Current Project
+
+- [ALS Facial Gesture AAC](https://github.com/alsfamilies/als-facial-gesture-aac): an assistive communication prototype that helps ALS patients send common messages to caregivers and family members through a small set of remaining facial micro-movements.
+
+## Feedback
+
+If you are an ALS patient, family member, caregiver, clinician, rehabilitation professional, researcher, or developer, feedback is welcome through the GitHub Issues page of each project.
+
+## Safety Boundary
+
+These tools are intended to make daily life easier for patients and families. They do not replace professional medical treatment and must not be used as a fully reliable emergency call system. Users should evaluate risks based on their own caregiving environment and keep appropriate backup communication methods.
+
+## License Boundary
+
+Projects are made public for non-commercial humanitarian, family, caregiving, educational, and research use. Commercial use is not permitted without prior written permission from alsfamilies.
+
+---
+
+## 中文
+
 我是一名 ALS（渐冻症）患者家属，也是一名工程师。我的家人于 2020 年确诊 ALS，目前已完全瘫痪，并接受了气管切开手术。
 
 日常工作中，我主要运用人工智能与创新工程方法，开展 ALS 药物发现及发病机制研究。同时，我也在开发面向真实照护场景的实用工具，帮助更多渐冻症患者和家庭解决生活中的具体难题。
@@ -23,11 +58,7 @@
 
 ## 使用边界
 
-这些工具旨在为患者生活提供便利，但不能替代专业医疗治疗，也不能作为可完全依赖的紧急呼叫设备。请使用者结合具体照护环境自行评估使用风险。
-
-## License Boundary
-
-Projects are made public for non-commercial humanitarian, family, caregiving, educational, and research use. Commercial use is not permitted without prior written permission from alsfamilies.
+这些工具旨在为患者生活提供便利，但不能替代专业医疗治疗，也不能作为可完全依赖的紧急呼叫设备。请使用者结合具体照护环境自行评估使用风险，并保留合适的备用沟通方式。
 
 ## 授权边界
 
