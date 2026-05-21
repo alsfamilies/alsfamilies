@@ -11,7 +11,7 @@
 - ALS 药物发现与发病机制研究
 - 面向患者家庭的辅助沟通工具
 - 低成本、可本地运行、重视隐私的照护辅助软件
-- 基于真实照护场景的开源原型验证
+- 基于真实照护场景的源代码公开、非商业原型验证
 
 ## 当前项目
 
@@ -24,3 +24,11 @@
 ## 使用边界
 
 这些工具旨在为患者生活提供便利，但不能替代专业医疗治疗，也不能作为可完全依赖的紧急呼叫设备。请使用者结合具体照护环境自行评估使用风险。
+
+## License Boundary
+
+Projects are made public for non-commercial humanitarian, family, caregiving, educational, and research use. Commercial use is not permitted without prior written permission from alsfamilies.
+
+## 授权边界
+
+相关项目公开用于非商业的人道主义、家庭照护、护理、教育和研究用途。未经 alsfamilies 事先书面许可，禁止任何商业用途。
