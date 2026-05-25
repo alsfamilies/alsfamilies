@@ -17,7 +17,9 @@ This work will continue as a long-term public-interest effort. Related tools wil
 
 ## Current Project
 
-- ALS Facial Micro-Movement AAC: an invite-only assistive communication prototype that helps ALS patients express common messages through a small set of remaining facial micro-movements. The current internal test package is the Mac version.
+- ALS Facial Micro-Movement AAC: an invite-only assistive communication prototype that helps ALS patients express common messages through a small set of remaining facial micro-movements.
+- Current stable Mac prototype: `alsfamilies/macbook-blink-detector` (private, invite-only testing).
+- Legacy prototype: `alsfamilies/als-facial-gesture-aac` is an older private repository and is not the current Mac test package.
 - Active prototype repositories may be private while safety wording, packaging, and real-world testing workflows are still being refined.
 
 ## Feedback
@@ -51,7 +53,9 @@ Shared projects and packages are intended for non-commercial humanitarian, famil
 
 ## 当前项目
 
-- ALS 面部微动作 AAC：邀请测试中的辅助交流原型，借助 ALS 患者仍可完成的少量面部微动作，向照护者及家人传递常用信息。当前内部测试安装包为 Mac 版本。
+- ALS 面部微动作 AAC：邀请测试中的辅助交流原型，借助 ALS 患者仍可完成的少量面部微动作，向照护者及家人传递常用信息。
+- 当前稳定 Mac 原型：`alsfamilies/macbook-blink-detector`（私有仓库，邀请测试）。
+- 旧版历史原型：`alsfamilies/als-facial-gesture-aac` 是较早的私有仓库，不是当前 Mac 测试安装包。
 - 活跃原型仓库在安全声明、安装包分发和真实使用测试流程稳定前，可能保持私有。
 
 ## 反馈
